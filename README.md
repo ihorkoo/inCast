@@ -1,6 +1,6 @@
 # inCust
 
-Документація: https://app.swaggerhub.com/apis-docs/ihorkoo/inCast/1.0.0#/
+Документація: https://app.swaggerhub.com/apis-docs/ihorkoo/inCust/1.0.0#/
 
 Для запуску програми потрібно:
 1. Створити файл settings.json та задати в ньому параметри підключення до бази даних.
