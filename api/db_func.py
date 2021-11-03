@@ -35,7 +35,7 @@ def take_currency(c, currency):
     """
     currency_id за найменуванням
 
-    :return: user password
+    :return: currency_id
     """
     sql_text = """SELECT currency_id FROM currency WHERE currency_name = %s"""
     c.execute(sql_text, (currency,))
@@ -46,7 +46,7 @@ def take_product_id(c, sku, login):
     """
     product_id за sku та користувачем
 
-    :return: user password
+    :return: product_id
     """
     
     user_id = take_user_id(c, login)

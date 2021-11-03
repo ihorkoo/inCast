@@ -102,7 +102,7 @@ def add_price():
 @auth.login_required
 def products_list():
     """
-    Список товарів за задиними параметрами
+    Список товарів за заданими параметрами
     """
     login = auth.current_user()
     sku = request.args.get('sku')
