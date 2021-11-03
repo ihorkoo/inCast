@@ -1,4 +1,4 @@
-# inCast
+# inCust
 
 Документація: https://app.swaggerhub.com/apis-docs/ihorkoo/inCast/1.0.0#/
 
